@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASD.UIP.HW1.AppleShop.Shared", "ASD.UIP.HW1.AppleShop.Shared\ASD.UIP.HW1.AppleShop.Shared.csproj", "{211E58E0-36A4-45CC-8B96-0689FC310766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASD.UIP.HW1.AppleShop.DAL", "ASD.UIP.HW1.AppleShop.DAL\ASD.UIP.HW1.AppleShop.DAL.csproj", "{345D3CCA-5E0A-48AF-9E4C-B0CDB8CE02BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASD.UIP.HW1.AppleShop.UI.ConsoleApp", "ASD.UIP.HW1.AppleShop.UI.ConsoleApp\ASD.UIP.HW1.AppleShop.UI.ConsoleApp.csproj", "{5324B83B-C4FF-4C38-BF40-2ACC4F3C1D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASD.UIP.HW1.AppleShop.BLL", "ASD.UIP.HW1.AppleShop.BLL\ASD.UIP.HW1.AppleShop.BLL.csproj", "{4ABA0760-9B01-4ADC-9A09-CDE442FD3645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211E58E0-36A4-45CC-8B96-0689FC310766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211E58E0-36A4-45CC-8B96-0689FC310766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211E58E0-36A4-45CC-8B96-0689FC310766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211E58E0-36A4-45CC-8B96-0689FC310766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345D3CCA-5E0A-48AF-9E4C-B0CDB8CE02BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345D3CCA-5E0A-48AF-9E4C-B0CDB8CE02BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345D3CCA-5E0A-48AF-9E4C-B0CDB8CE02BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345D3CCA-5E0A-48AF-9E4C-B0CDB8CE02BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5324B83B-C4FF-4C38-BF40-2ACC4F3C1D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5324B83B-C4FF-4C38-BF40-2ACC4F3C1D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5324B83B-C4FF-4C38-BF40-2ACC4F3C1D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5324B83B-C4FF-4C38-BF40-2ACC4F3C1D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABA0760-9B01-4ADC-9A09-CDE442FD3645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABA0760-9B01-4ADC-9A09-CDE442FD3645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABA0760-9B01-4ADC-9A09-CDE442FD3645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABA0760-9B01-4ADC-9A09-CDE442FD3645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710DC193-405A-42B4-89F8-0797046B10F2}
+	EndGlobalSection
+EndGlobal

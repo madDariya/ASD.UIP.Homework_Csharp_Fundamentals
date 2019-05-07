@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HW2", "HW2", "{B2507EA5-A89B-4CD1-AE65-F0BB1141668A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HW3", "HW3", "{361D77B1-E2E9-4BFD-A335-292419B79CDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HW1", "HW1", "{A3E67B49-41AC-4AC4-B6C7-CC8F908F0A60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppleShop", "AppleShop", "{FFA71FBB-ED81-4FD9-B3BC-049A2997C762}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HW5", "HW5", "{3A54AFFE-F085-4C4B-A41E-327EE18221B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASD.UIP.HW1.VariablesTypesTask1", "ASD.UIP.HW1.VariablesTypesTask1\ASD.UIP.HW1.VariablesTypesTask1\ASD.UIP.HW1.VariablesTypesTask1.csproj", "{5F847CB7-EEFD-497C-BDE9-A3EA7874DFED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASD.UIP.HW1.AppleShop.BLL", "ASD.UIP.HW1.AppleShop\ASD.UIP.HW1.AppleShop.BLL\ASD.UIP.HW1.AppleShop.BLL.csproj", "{4ABA0760-9B01-4ADC-9A09-CDE442FD3645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{8198D621-877E-4436-A4F4-E107262CD42E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F847CB7-EEFD-497C-BDE9-A3EA7874DFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F847CB7-EEFD-497C-BDE9-A3EA7874DFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F847CB7-EEFD-497C-BDE9-A3EA7874DFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F847CB7-EEFD-497C-BDE9-A3EA7874DFED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABA0760-9B01-4ADC-9A09-CDE442FD3645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABA0760-9B01-4ADC-9A09-CDE442FD3645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABA0760-9B01-4ADC-9A09-CDE442FD3645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABA0760-9B01-4ADC-9A09-CDE442FD3645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8198D621-877E-4436-A4F4-E107262CD42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8198D621-877E-4436-A4F4-E107262CD42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8198D621-877E-4436-A4F4-E107262CD42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8198D621-877E-4436-A4F4-E107262CD42E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FFA71FBB-ED81-4FD9-B3BC-049A2997C762} = {A3E67B49-41AC-4AC4-B6C7-CC8F908F0A60}
+		{5F847CB7-EEFD-497C-BDE9-A3EA7874DFED} = {A3E67B49-41AC-4AC4-B6C7-CC8F908F0A60}
+		{4ABA0760-9B01-4ADC-9A09-CDE442FD3645} = {FFA71FBB-ED81-4FD9-B3BC-049A2997C762}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D308C670-96C6-4719-A002-E8EC9AF684E0}
+	EndGlobalSection
+EndGlobal
