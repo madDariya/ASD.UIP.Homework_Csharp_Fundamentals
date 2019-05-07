@@ -10,6 +10,7 @@ namespace ASD.HW5.OOP.Factory
     {
         static void Main(string[] args)
         {
+            int a = 5;
         }
     }
 }
